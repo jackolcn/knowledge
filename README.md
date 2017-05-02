@@ -309,5 +309,4 @@
 <p>设计工具：Sketch、OmniGraffle </p>
 <br>
 <br>
-来自：http://segmentfault.com/q/1010000002404545
 </article>
