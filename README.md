@@ -1,6 +1,4 @@
-
-<div class="col-md-9" id="readercontainer">
-				<article>
+<article>
 					<h2 id="articleHeader0">技术站点 </h2>
 <ul>
 <li>Hacker News：非常棒的针对编程的链接聚合网站 </li>
@@ -312,13 +310,4 @@
 <br>
 <br>
 来自：http://segmentfault.com/q/1010000002404545
-				</article>
-
-
-
-
-		
-
-
-
-		</div>
+</article>
